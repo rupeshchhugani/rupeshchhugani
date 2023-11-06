@@ -1,6 +1,6 @@
 # Hi, I am Rupesh! 👋
 
-## I strongly believe that turning data into meaningful information can be a powerful resource for shaping business strategies and bringing real change.
+### I strongly believe that turning data into meaningful information can be a powerful resource for shaping business strategies and bringing real change.
 
 ### I am an enthusiast in Business Intelligence with experience in Data Analytics/ Visualisation/ Dashboarding and a passion for learning new skills, sharing knowledge and improving the status quo. I am currently writing my Master's thesis with Bosch HC, where I'm focusing on the topic of early detection of abnormal system behavior, life expectancy prediction, load profile calculation, and data models for predictive maintenance of HVAC systems. With over a year of experience at Bosch HC, I've been involved in diverse projects, including dashboard development, automation initiatives, creating deployment pipelines, and conducting in-depth data analysis to extract actionable insights.
 
